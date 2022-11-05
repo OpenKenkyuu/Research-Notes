@@ -9,7 +9,9 @@ For a better reading of this thesis notes, I would highly suggest to use [Obsidi
 It will let you see al the conections made between the different notes.
 
 `git clone https://github.com/OpenKenkyuu/Research-Notes.git`
+
 `cd Research-Notes`
+
 `git checkout -b your-branch-name`
 
 Once you have pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
