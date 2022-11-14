@@ -1,6 +1,12 @@
 `Student: Mario Santamaría Osorio`
 `Professor: Alberto Diaz`
 
+
+# Vision
+- [[General Idea]]
+- [Privacy is a human right](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+- Centralizing knowledge is cruel
+
 # Useful resources
 
 - [Google scholar](https://scholar.google.com/)
@@ -18,3 +24,5 @@
 - [[Making more research count: a blockchain enabled one-stop shop for immutable behavioral research]]
 - [[Sustainable open access publishing using Blockchain, Interledger and Web Monetization]]
 - [[Autonomous, bidding, credible, decentralized, ethical, and funded]]
+
+---
