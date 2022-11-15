@@ -20,3 +20,15 @@ To solve this, we have **decentralized** and t**rsutless systems**.
 ---
 
 # Continuous Token-Curated Registries: The Infinity of Lists
+
+
+---
+
+### Further reading
+
+[TCRs 1.0](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7)
+[ABCs of TCRs](https://medium.com/@tokenfreedom/abcs-of-token-curated-registries-6a25d6d64154)
+[continous token-curated registries](https://medium.com/@simondlr/continuous-token-curated-registries-the-infinity-of-lists-69024c9eb70d)
+[TCRs 1.1](https://medium.com/@ilovebagels/token-curated-registries-1-1-2-0-tcrs-new-theory-and-dev-updates-34c9f079f33d)
+[TCR design patterns](https://hackernoon.com/token-curated-registry-tcr-design-patterns-4de6d18efa15)
+
